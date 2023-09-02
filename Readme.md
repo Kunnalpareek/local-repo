@@ -1,1 +1,1 @@
-This is my locam repository.
+This is my loca repository.
